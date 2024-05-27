@@ -9,6 +9,5 @@ Este repositorio contiene una colección de laboratorios desarrollados durante e
 3. [Laboratorio 3: Cáncer de mama](./CancerMama/README.md)
 4. [Laboratorio 4: Diabetes](./Diabetes/README.md)
 5. [Laboratorio 5: Color iris](./ColorIris/README.md)
-...
 
 Cada enlace te llevará a la carpeta correspondiente donde encontrarás el dataset, las indicaciones y el notebook con la resolución.
