@@ -4,10 +4,10 @@ Este repositorio contiene una colección de laboratorios desarrollados durante e
 
 ## Índice de Laboratorios
 
-1. [Laboratorio 1: Millas por galón](./MPG/README.md)
-2. [Laboratorio 2: Calidad del aire](./AirQuality/README.md)
-3. [Laboratorio 3: Cáncer de mama](./CancerMama/README.md)
-4. [Laboratorio 4: Diabetes](./Diabetes/README.md)
-5. [Laboratorio 5: Color iris](./ColorIris/README.md)
+1. [Laboratorio 1: Millas por galón](./MPG/)
+2. [Laboratorio 2: Calidad del aire](./AirQuality/)
+3. [Laboratorio 3: Cáncer de mama](./CancerMama/)
+4. [Laboratorio 4: Diabetes](./Diabetes/)
+5. [Laboratorio 5: Color iris](./ColorIris/)
 
 Cada enlace te llevará a la carpeta correspondiente donde encontrarás el dataset, las indicaciones y el notebook con la resolución.
